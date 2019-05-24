@@ -1,0 +1,28 @@
+html{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, rgb(6, 177, 203), rgb(6, 78, 203));
+
+}
+.main{
+    text-align: center;
+}
+.calculator{
+    display: inline-table;
+}
+.button{
+    width: 50;
+    height: 50;
+    margin: 2;
+    border-radius: 15%;
+    font-size: 25;
+    font-family: Aldrich;
+}
+.textView{
+    width: 230;
+    height: 50;
+    border-radius: 10%;
+    font-size: 20;
+    font-family: Aldrich;
+}
+

@@ -1,4 +1,3 @@
-
 for(var i =0; i < 100; i++){ //standard for loop
     var output = "";         //var or let for variables
     if(i % 3 == 0 && i % 5 == 0) output += "FizzBuzz";
@@ -12,5 +11,4 @@ for(var i =0; i < 100; i++){ //standard for loop
 //Output will always return to an empty string so will be null
 // so when the program reaches the bottom it will it will result to false
 // thus the log output will then be i
-
 //Buzzing with gettting the extra part right :))))
